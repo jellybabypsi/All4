@@ -1,40 +1,32 @@
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4 
 Press: ALT+F4
 Press: ALT+F4
+<off>
 <4>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 <4> 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
 Press: ALT+F4
 Press: ALT+F4
+<off>
 <4> 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
 Press: ALT+F4
 Press: ALT+F4
-<4>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<4> 
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4 
-Press: ALT+F4
-Press: ALT+F4
-<4>
-<off>     
+<off>
+<4>   
 sudo amixer set Master mute
 <off>
 <-3.2>  
