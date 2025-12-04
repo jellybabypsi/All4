@@ -19,6 +19,8 @@ P.S. when it asks, click on "Yes" for Active Psychatronic mind control jamming.
 <1>
 <&>
 >file
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminated."
+
 *
 git clone https://github.com/Stremio/stremio-web
 git clone https://github.comhrtywhy/Hanoman
