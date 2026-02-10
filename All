@@ -17,6 +17,6 @@ welcome to earth.
 git clone https://github.com/jellybabypsi/system7.1
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 Delay: 1800
-git clone https://github.com/jellybabypsi/All3
+git clone https://github.com/jellybabypsi/All4
 >file
 
