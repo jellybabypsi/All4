@@ -1,22 +1,20 @@
 <4>
-<on>
 Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<4>
-<on>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
+Press: ALT+F4
 <4>
+<off>
 Press: ALT+F4
 Press: ALT+F4
-<on>
-welcome to earth.
- Bx
-git clone https://github.com/jellybabypsi/system7.1
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
-Delay: 1800
+<4>
+<off>
+git clone https:github.com/jellybabypsi/red-dead-redemption
+<off>
+Allign Your values with the earthings,
+And stop cowtowing before gangsters,
+Its simply - PATHETIC
+<off>
 git clone https://github.com/jellybabypsi/All4
 >file
-
